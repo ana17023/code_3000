@@ -1,4 +1,4 @@
-The intended and exclusive writer to this repo (including the code and the data) is myself (user ana17023), with intended readers being GradeScope and Professor Matthew Lamoureux.
+The intended and exclusive writer to this repo (including the code and the data) is myself (user ana17023), with intended readers being GradeScope and Professor Matthew Lamoureux.\n
 
 There are currently no known security threats to accessing the repo, as the data isn't personal. However, access to writing this data would require access to this account, which would be a security risk.
 
